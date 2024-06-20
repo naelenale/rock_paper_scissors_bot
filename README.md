@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 2. Create `.env` file (use `default.env` as an example).
 
-3. Run bot with the following command: 
+3. Run the bot with the following command: 
 ```
 python main.py
 ```
